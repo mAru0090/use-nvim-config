@@ -3,6 +3,7 @@ require("share/opt")
 require("share/colorscheme")
 require("share/plugins/require-plugins")
 require("share/command")
+require("syntax/angelscript-highlight")
 require("setup")
 
 -- --nopluginが指定されたかどうか
